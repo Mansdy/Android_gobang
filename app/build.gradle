@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "activitytest.example.com.gamesnaker"
-        minSdkVersion 16
+        applicationId "com.GameWUZHIQI"
+        minSdkVersion 14
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
